@@ -1,6 +1,6 @@
 +++
-image = "https://github.com/IanJCHEN/port/tree/main/static/portfolio/20231123-DSC09713.jpg"
-showonlyimage = true
+image = "portfolio/20231123-DSC09713.jpg"
+showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
 title = "Name of the work 5"
