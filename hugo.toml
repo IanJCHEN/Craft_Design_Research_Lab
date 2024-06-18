@@ -2,7 +2,6 @@ publishDir = "docs"
 baseURL = 'https://github.com/IanJCHEN/port'
 languageCode = 'en-us'
 title = 'Craft Desing Reasearch Lab'
-theme = 'hugo-creative-portfolio-theme'
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
